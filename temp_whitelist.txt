@@ -1,2 +1,2 @@
 # Temporary Ferryman whitelist
-bamjose
+screamingcolor
