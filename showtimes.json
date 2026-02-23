@@ -1,152 +1,69 @@
 {
-  "version": 1,
-  "timezone": "Asia/Taipei",
-  "currency": "NTD",
   "shows": [
     {
-      "id": "2026-02-01-gumball-2000",
       "showType": "gumball",
-      "title": "Gumball Dreams",
-      "date": "2026-02-01",
-      "time": "20:00",
+      "date": "2026-02-05",
       "timeLabel": "20:00 Taipei",
-      "totalSeats": 3,
+      "totalSeats": 6,
       "remainingSeats": 2,
       "cost": "NT$500",
-      "notes": "TEST: Available (Gumball)"
+      "notes": "Doors 10 min early"
     },
     {
-      "id": "2026-02-02-gumball-2000",
       "showType": "gumball",
-      "title": "Gumball Dreams",
-      "date": "2026-02-02",
-      "time": "20:00",
-      "timeLabel": "20:00 Taipei",
-      "totalSeats": 3,
+      "date": "2026-02-05",
+      "timeLabel": "23:00 Taipei",
+      "totalSeats": 6,
       "remainingSeats": 0,
       "cost": "NT$500",
-      "notes": "TEST: SOLD OUT (Gumball)"
-    },
-    {
-      "id": "2026-02-03-respite-1900",
-      "showType": "respite",
-      "title": "Welcome to Respite",
-      "date": "2026-02-03",
-      "time": "19:00",
-      "timeLabel": "19:00 Taipei",
-      "totalSeats": 10,
-      "remainingSeats": 6,
-      "cost": "NT$300",
-      "notes": "TEST: Available (Respite)"
-    },
-    {
-      "id": "2026-02-04-respite-1900",
-      "showType": "respite",
-      "title": "Welcome to Respite",
-      "date": "2026-02-04",
-      "time": "19:00",
-      "timeLabel": "19:00 Taipei",
-      "totalSeats": 10,
-      "remainingSeats": 0,
-      "cost": "NT$300",
-      "notes": "TEST: SOLD OUT (Respite)"
-    },
-    {
-      "id": "2026-02-05-uncanny-2030",
-      "showType": "uncanny",
-      "title": "Uncanny Alley",
-      "date": "2026-02-05",
-      "time": "20:30",
-      "timeLabel": "20:30 Taipei",
-      "totalSeats": 7,
-      "remainingSeats": 4,
-      "cost": "Free",
-      "notes": "TEST: Available (Uncanny)"
-    },
-    {
-      "id": "2026-02-06-uncanny-2030",
-      "showType": "uncanny",
-      "title": "Uncanny Alley",
-      "date": "2026-02-06",
-      "time": "20:30",
-      "timeLabel": "20:30 Taipei",
-      "totalSeats": 7,
-      "remainingSeats": 0,
-      "cost": "Free",
-      "notes": "TEST: SOLD OUT (Uncanny)"
+      "notes": "Late-night edition"
     },
 
     {
-      "id": "2026-02-15-gumball-2000",
-      "showType": "gumball",
-      "title": "Gumball Dreams",
-      "date": "2026-02-15",
-      "time": "20:00",
-      "timeLabel": "20:00 Taipei",
-      "totalSeats": 3,
+      "showType": "respite",
+      "date": "2026-02-12",
+      "timeLabel": "19:00 Taipei",
+      "totalSeats": 8,
       "remainingSeats": 1,
-      "cost": "NT$500",
-      "notes": "TEST: Available (Gumball) cycle 2"
+      "cost": "NT$450",
+      "notes": "Quiet, cozy energy"
     },
     {
-      "id": "2026-02-16-gumball-2000",
-      "showType": "gumball",
-      "title": "Gumball Dreams",
-      "date": "2026-02-16",
-      "time": "20:00",
-      "timeLabel": "20:00 Taipei",
-      "totalSeats": 3,
-      "remainingSeats": 0,
-      "cost": "NT$500",
-      "notes": "TEST: SOLD OUT (Gumball) cycle 2"
-    },
-    {
-      "id": "2026-02-17-respite-1900",
       "showType": "respite",
-      "title": "Welcome to Respite",
-      "date": "2026-02-17",
-      "time": "19:00",
-      "timeLabel": "19:00 Taipei",
-      "totalSeats": 10,
-      "remainingSeats": 3,
-      "cost": "NT$300",
-      "notes": "TEST: Available (Respite) cycle 2"
+      "date": "2026-02-12",
+      "timeLabel": "21:30 Taipei",
+      "totalSeats": 8,
+      "remainingSeats": 5,
+      "cost": "NT$450",
+      "notes": "More seats this one"
     },
     {
-      "id": "2026-02-18-respite-1900",
       "showType": "respite",
-      "title": "Welcome to Respite",
-      "date": "2026-02-18",
-      "time": "19:00",
-      "timeLabel": "19:00 Taipei",
-      "totalSeats": 10,
+      "date": "2026-02-12",
+      "timeLabel": "23:30 Taipei",
+      "totalSeats": 8,
       "remainingSeats": 0,
-      "cost": "NT$300",
-      "notes": "TEST: SOLD OUT (Respite) cycle 2"
+      "cost": "NT$450",
+      "notes": "Fully booked"
     },
+
     {
-      "id": "2026-02-19-uncanny-2030",
       "showType": "uncanny",
-      "title": "Uncanny Alley",
-      "date": "2026-02-19",
-      "time": "20:30",
-      "timeLabel": "20:30 Taipei",
-      "totalSeats": 7,
-      "remainingSeats": 2,
-      "cost": "Free",
-      "notes": "TEST: Available (Uncanny) cycle 2"
-    },
-    {
-      "id": "2026-02-20-uncanny-2030",
-      "showType": "uncanny",
-      "title": "Uncanny Alley",
       "date": "2026-02-20",
-      "time": "20:30",
-      "timeLabel": "20:30 Taipei",
-      "totalSeats": 7,
+      "timeLabel": "20:00 Taipei",
+      "totalSeats": 10,
       "remainingSeats": 0,
-      "cost": "Free",
-      "notes": "TEST: SOLD OUT (Uncanny) cycle 2"
+      "cost": "NT$600",
+      "notes": "Sold out night"
+    },
+    {
+      "showType": "uncanny",
+      "date": "2026-02-20",
+      "timeLabel": "22:30 Taipei",
+      "totalSeats": 10,
+      "remainingSeats": 0,
+      "cost": "NT$600",
+      "notes": "Sold out night"
     }
   ]
 }
