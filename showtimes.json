@@ -86,7 +86,7 @@
     },
     {
       "showType": "respite",
-      "date": "2026-02-27",
+      "date": "2026-03-27",
       "timeLabel": "16:00 Taipei",
       "totalSeats": 6,
       "remainingSeats": 6,
@@ -96,6 +96,15 @@
     {
       "showType": "respite",
       "date": "2026-02-27",
+      "timeLabel": "18:00 Taipei",
+      "totalSeats": 6,
+      "remainingSeats": 6,
+      "cost": "NT$450",
+      "notes": ""
+    }
+      {
+      "showType": "respite",
+      "date": "2026-04-7",
       "timeLabel": "18:00 Taipei",
       "totalSeats": 6,
       "remainingSeats": 6,
