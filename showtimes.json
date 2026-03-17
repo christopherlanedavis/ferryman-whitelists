@@ -1,114 +1,150 @@
 {
   "shows": [
     {
-      "showType": "gumball",
-      "date": "2026-02-07",
-      "timeLabel": "15:00 Taipei",
-      "totalSeats": 5,
-      "remainingSeats": 0,
-      "cost": "NT$500",
-      "notes": "SOLD OUT"
+      "showType": "respite",
+      "date": "2026-05-09",
+      "timeLabel": "10:00 PT",
+      "totalSeats": 7,
+      "remainingSeats": 7,
+      "cost": "",
+      "notes": ""
     },
     {
-      "showType": "gumball",
-      "date": "2026-02-07",
-      "timeLabel": "19:00 Taipei",
-      "totalSeats": 5,
-      "remainingSeats": 2,
-      "cost": "NT$500",
+      "showType": "respite",
+      "date": "2026-05-10",
+      "timeLabel": "10:00 PT",
+      "totalSeats": 7,
+      "remainingSeats": 7,
+      "cost": "",
+      "notes": ""
+    },
+    {
+      "showType": "respite",
+      "date": "2026-05-16",
+      "timeLabel": "10:00 PT",
+      "totalSeats": 7,
+      "remainingSeats": 7,
+      "cost": "",
+      "notes": ""
+    },
+    {
+      "showType": "respite",
+      "date": "2026-05-17",
+      "timeLabel": "10:00 PT",
+      "totalSeats": 7,
+      "remainingSeats": 7,
+      "cost": "",
       "notes": ""
     },
 
     {
       "showType": "gumball",
-      "date": "2026-01-10",
-      "timeLabel": "18:00 Taipei",
+      "date": "2026-05-23",
+      "timeLabel": "10:00 PT",
       "totalSeats": 3,
-      "remainingSeats": 2,
-      "cost": "NT$500",
+      "remainingSeats": 3,
+      "cost": "",
+      "notes": ""
+    },
+    {
+      "showType": "gumball",
+      "date": "2026-05-24",
+      "timeLabel": "10:00 PT",
+      "totalSeats": 3,
+      "remainingSeats": 3,
+      "cost": "",
+      "notes": ""
+    },
+    {
+      "showType": "gumball",
+      "date": "2026-05-30",
+      "timeLabel": "10:00 PT",
+      "totalSeats": 3,
+      "remainingSeats": 3,
+      "cost": "",
+      "notes": ""
+    },
+    {
+      "showType": "gumball",
+      "date": "2026-05-31",
+      "timeLabel": "10:00 PT",
+      "totalSeats": 3,
+      "remainingSeats": 3,
+      "cost": "",
+      "notes": ""
+    },
+
+    {
+      "showType": "wiilii",
+      "date": "2026-06-06",
+      "timeLabel": "10:00 PT",
+      "totalSeats": 7,
+      "remainingSeats": 7,
+      "cost": "",
+      "notes": ""
+    },
+    {
+      "showType": "wiilii",
+      "date": "2026-06-07",
+      "timeLabel": "10:00 PT",
+      "totalSeats": 7,
+      "remainingSeats": 7,
+      "cost": "",
+      "notes": ""
+    },
+    {
+      "showType": "wiilii",
+      "date": "2026-06-13",
+      "timeLabel": "10:00 PT",
+      "totalSeats": 7,
+      "remainingSeats": 7,
+      "cost": "",
+      "notes": ""
+    },
+    {
+      "showType": "wiilii",
+      "date": "2026-06-14",
+      "timeLabel": "10:00 PT",
+      "totalSeats": 7,
+      "remainingSeats": 7,
+      "cost": "",
       "notes": ""
     },
 
     {
       "showType": "uncanny",
-      "date": "2026-02-12",
-      "timeLabel": "16:00 Taipei",
-      "totalSeats": 6,
-      "remainingSeats": 0,
-      "cost": "NT$600",
-      "notes": "Daily run (sold out)"
-    },
-    {
-      "showType": "uncanny",
-      "date": "2026-02-13",
-      "timeLabel": "16:00 Taipei",
-      "totalSeats": 6,
-      "remainingSeats": 0,
-      "cost": "NT$600",
-      "notes": "Daily run (sold out)"
-    },
-    {
-      "showType": "uncanny",
-      "date": "2026-02-14",
-      "timeLabel": "16:00 Taipei",
-      "totalSeats": 6,
-      "remainingSeats": 0,
-      "cost": "NT$600",
-      "notes": "Daily run (sold out)"
-    },
-    {
-      "showType": "uncanny",
-      "date": "2026-02-15",
-      "timeLabel": "16:00 Taipei",
-      "totalSeats": 6,
-      "remainingSeats": 0,
-      "cost": "NT$600",
-      "notes": "Daily run (sold out)"
-    },
-    {
-      "showType": "uncanny",
-      "date": "2026-02-16",
-      "timeLabel": "16:00 Taipei",
-      "totalSeats": 6,
-      "remainingSeats": 1,
-      "cost": "NT$600",
-      "notes": "Daily run (sold out)"
-    },
-
-    {
-      "showType": "respite",
-      "date": "2026-02-27",
-      "timeLabel": "13:00 Taipei",
-      "totalSeats": 6,
-      "remainingSeats": 6,
-      "cost": "NT$450",
+      "date": "2026-06-20",
+      "timeLabel": "10:00 PT",
+      "totalSeats": 7,
+      "remainingSeats": 7,
+      "cost": "",
       "notes": ""
     },
     {
-      "showType": "respite",
-      "date": "2026-03-27",
-      "timeLabel": "16:00 Taipei",
-      "totalSeats": 6,
-      "remainingSeats": 6,
-      "cost": "NT$450",
+      "showType": "uncanny",
+      "date": "2026-06-21",
+      "timeLabel": "10:00 PT",
+      "totalSeats": 7,
+      "remainingSeats": 7,
+      "cost": "",
       "notes": ""
     },
     {
-      "showType": "respite",
-      "date": "2026-02-27",
-      "timeLabel": "18:00 Taipei",
-      "totalSeats": 6,
-      "remainingSeats": 6,
-      "cost": "NT$450",
+      "showType": "uncanny",
+      "date": "2026-06-27",
+      "timeLabel": "10:00 PT",
+      "totalSeats": 7,
+      "remainingSeats": 7,
+      "cost": "",
       "notes": ""
-    }
-      {
-      "showType": "respite",
-      "date": "2026-04-7",
-      "timeLabel": "18:00 Taipei",
-      "totalSeats": 6,
-      "remainingSeats": 6,
-      "cost": "NT$450",
+    },
+    {
+      "showType": "uncanny",
+      "date": "2026-06-28",
+      "timeLabel": "10:00 PT",
+      "totalSeats": 7,
+      "remainingSeats": 7,
+      "cost": "",
       "notes": ""
     }
   ]
