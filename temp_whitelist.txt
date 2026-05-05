@@ -1,3 +1,11 @@
-# Temporary Ferryman whitelist
-screamingcolor
+[WELCOME_TO_RESPITE]
 DVLyons d871
+ActorName1
+ActorName2
+
+[UNCANNY_ALLEY]
+ActorName3
+ActorName4
+
+[GUMBALL_DREAMS]
+ActorName5
