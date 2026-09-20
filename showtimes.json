@@ -1,9 +1,10 @@
+```json
 {
   "shows": [
     {
       "showType": "strangeways",
       "date": "2026-10-02",
-      "timeLabel": "7:00 PM PST",
+      "timeLabel": "7 PM PST",
       "totalSeats": 7,
       "remainingSeats": 7,
       "cost": "",
@@ -12,7 +13,7 @@
     {
       "showType": "strangeways",
       "date": "2026-10-03",
-      "timeLabel": "12:00 PM PST",
+      "timeLabel": "12 PM PST",
       "totalSeats": 7,
       "remainingSeats": 7,
       "cost": "",
@@ -21,7 +22,7 @@
     {
       "showType": "strangeways",
       "date": "2026-10-04",
-      "timeLabel": "12:00 PM PST",
+      "timeLabel": "12 PM PST",
       "totalSeats": 7,
       "remainingSeats": 7,
       "cost": "",
@@ -30,7 +31,7 @@
     {
       "showType": "strangeways",
       "date": "2026-10-09",
-      "timeLabel": "7:00 PM PST",
+      "timeLabel": "7 PM PST",
       "totalSeats": 7,
       "remainingSeats": 7,
       "cost": "",
@@ -39,7 +40,7 @@
     {
       "showType": "strangeways",
       "date": "2026-10-10",
-      "timeLabel": "12:00 PM PST",
+      "timeLabel": "12 PM PST",
       "totalSeats": 7,
       "remainingSeats": 7,
       "cost": "",
@@ -48,17 +49,16 @@
     {
       "showType": "strangeways",
       "date": "2026-10-11",
-      "timeLabel": "12:00 PM PST",
+      "timeLabel": "12 PM PST",
       "totalSeats": 7,
       "remainingSeats": 7,
       "cost": "",
       "notes": ""
     },
-
     {
       "showType": "uncanny",
       "date": "2026-10-17",
-      "timeLabel": "12:00 PM PST",
+      "timeLabel": "12 PM PST",
       "totalSeats": 7,
       "remainingSeats": 7,
       "cost": "",
@@ -67,7 +67,7 @@
     {
       "showType": "uncanny",
       "date": "2026-10-18",
-      "timeLabel": "12:00 PM PST",
+      "timeLabel": "12 PM PST",
       "totalSeats": 7,
       "remainingSeats": 7,
       "cost": "",
@@ -76,7 +76,7 @@
     {
       "showType": "uncanny",
       "date": "2026-10-24",
-      "timeLabel": "12:00 PM PST",
+      "timeLabel": "12 PM PST",
       "totalSeats": 7,
       "remainingSeats": 7,
       "cost": "",
@@ -85,17 +85,16 @@
     {
       "showType": "uncanny",
       "date": "2026-10-25",
-      "timeLabel": "12:00 PM PST",
+      "timeLabel": "12 PM PST",
       "totalSeats": 7,
       "remainingSeats": 7,
       "cost": "",
       "notes": ""
     },
-
     {
       "showType": "gumball",
       "date": "2026-10-31",
-      "timeLabel": "12:00 PM PST",
+      "timeLabel": "12 PM PST",
       "totalSeats": 3,
       "remainingSeats": 3,
       "cost": "",
@@ -104,7 +103,7 @@
     {
       "showType": "gumball",
       "date": "2026-11-01",
-      "timeLabel": "12:00 PM PST",
+      "timeLabel": "12 PM PST",
       "totalSeats": 3,
       "remainingSeats": 3,
       "cost": "",
@@ -113,7 +112,7 @@
     {
       "showType": "gumball",
       "date": "2026-11-14",
-      "timeLabel": "12:00 PM PST",
+      "timeLabel": "12 PM PST",
       "totalSeats": 3,
       "remainingSeats": 3,
       "cost": "",
@@ -122,17 +121,16 @@
     {
       "showType": "gumball",
       "date": "2026-11-15",
-      "timeLabel": "12:00 PM PST",
+      "timeLabel": "12 PM PST",
       "totalSeats": 3,
       "remainingSeats": 3,
       "cost": "",
       "notes": ""
     },
-
     {
       "showType": "wiilii",
       "date": "2026-11-28",
-      "timeLabel": "12:00 PM PST",
+      "timeLabel": "12 PM PST",
       "totalSeats": 7,
       "remainingSeats": 7,
       "cost": "",
@@ -141,7 +139,7 @@
     {
       "showType": "wiilii",
       "date": "2026-11-29",
-      "timeLabel": "12:00 PM PST",
+      "timeLabel": "12 PM PST",
       "totalSeats": 7,
       "remainingSeats": 7,
       "cost": "",
@@ -150,7 +148,7 @@
     {
       "showType": "wiilii",
       "date": "2026-12-05",
-      "timeLabel": "12:00 PM PST",
+      "timeLabel": "12 PM PST",
       "totalSeats": 7,
       "remainingSeats": 7,
       "cost": "",
@@ -159,17 +157,16 @@
     {
       "showType": "wiilii",
       "date": "2026-12-06",
-      "timeLabel": "12:00 PM PST",
+      "timeLabel": "12 PM PST",
       "totalSeats": 7,
       "remainingSeats": 7,
       "cost": "",
       "notes": ""
     },
-
     {
       "showType": "respite",
       "date": "2026-12-12",
-      "timeLabel": "12:00 PM PST",
+      "timeLabel": "12 PM PST",
       "totalSeats": 7,
       "remainingSeats": 7,
       "cost": "",
@@ -178,7 +175,7 @@
     {
       "showType": "respite",
       "date": "2026-12-13",
-      "timeLabel": "12:00 PM PST",
+      "timeLabel": "12 PM PST",
       "totalSeats": 7,
       "remainingSeats": 7,
       "cost": "",
@@ -187,7 +184,7 @@
     {
       "showType": "respite",
       "date": "2026-12-19",
-      "timeLabel": "12:00 PM PST",
+      "timeLabel": "12 PM PST",
       "totalSeats": 7,
       "remainingSeats": 7,
       "cost": "",
@@ -196,7 +193,7 @@
     {
       "showType": "respite",
       "date": "2026-12-20",
-      "timeLabel": "12:00 PM PST",
+      "timeLabel": "12 PM PST",
       "totalSeats": 7,
       "remainingSeats": 7,
       "cost": "",
@@ -204,3 +201,4 @@
     }
   ]
 }
+```
